@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace Quiz_1
+namespace houseSelection
 {
     class Program
     {
